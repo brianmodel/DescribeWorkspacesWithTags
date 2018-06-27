@@ -9,8 +9,8 @@ The print_workspaces function is simply a nice way to print out a dictionary ont
 # Sample Output
 {<br/>
     "ResponseMetadata": {<br/>
-        * "HTTPHeaders": {<br/>
-            * "content-length": "409",<br/>
+        "HTTPHeaders": {<br/>
+            "content-length": "409",<br/>
             "content-type": "application/x-amz-json-1.1",<br/>
             "date": "Wed, 27 Jun 2018 01:04:33 GMT",<br/>
             "x-amzn-requestid": "12341234-1234-1234-b2e6-123456712345"<br/>
